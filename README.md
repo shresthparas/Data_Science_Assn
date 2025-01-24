@@ -3,7 +3,7 @@ This repository contains the solution to the Data Science Assignment: eCommerce 
 
 ### Repository Contents
 #### 1) Paras_shresth_EDA.ipynb:
-it  containing the Exploratory Data Analysis (EDA) performed on the eCommerce dataset.
+This Notebook containing the Exploratory Data Analysis (EDA) performed on the eCommerce dataset.
 
 #### 2)Paras_shresth_EDA.pdf:
 Business Insights discovered from the Exploratory Data Analysis
@@ -15,7 +15,7 @@ A jupyter notebook contain implementation for Lookalike Model
 This Csv file contain output of Lookalike Model
 
 ##### 5)Paras_Shresth_Clustering.ipynb:
-A jupyter nitebook code and steps for clustering on eCommerse Dataset
+A jupyter notebook code and steps for clustering on eCommerse Dataset
 
 #### 6)Paras_Shresth_Clustering.pdf:
 A detail report on Custering Analysis
